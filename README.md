@@ -1,2 +1,2 @@
 # Retail-lost-sales-prediction-and-pricing-analytics
- Employing advanced analytics, a leading retail clothing giant tackles challenges through Lost Sales and Price Prediction initiatives. These strategic endeavors aim to boost revenue by identifying and addressing areas of potential sales loss while optimizing pricing strategies for enhanced profitability.
+Employing advanced analytics, the project addresses leading retail clothing giant business challenge's through Lost Sales and Price Prediction. These strategic endeavors boost revenue by predicting lost sales to optimize pricing strategies for enhanced profitability.

@@ -51,7 +51,7 @@ Optimum Price of each item is found by Integer Formulation approach.
 * Let 𝐾 represent the set of possible values for 𝑘, taking into account that 𝑘 can assume all values ranging from the minimum of 𝑁∗min𝑗{𝑝𝑗} to the maximum of 𝑁∗max𝑗{𝑝𝑗}, with increments of 5.
 * The size of set 𝐾 can be determined by the formula: 𝐾 = 𝑁∗(𝑀−1)+1.
 * By focusing on the summation of prices for all competing styles rather than individually considering each style's price, we have efficiently transformed the 𝑀𝑁 possible price combinations into a manageable set of 𝑂(𝑀𝑁) possible sums to evaluate.
-* 
+  
 #### Integer Programming Model for Pricing Optimization
 
 This mathematical formulation represents an integer programming model for pricing optimization. The goal is to maximize revenue considering sales of each style at various prices, taking into account the sum of prices for competing styles.
